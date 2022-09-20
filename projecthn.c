@@ -42,6 +42,8 @@ int scan_s()
     }
     if(cnt > 8){cnt = 1;}
 
+    print("하늘 사장님 개때리고 싶어요");
+
     return 0;
 }
 
