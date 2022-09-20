@@ -42,6 +42,8 @@ int scan_s()
     }
     if(cnt > 8){cnt = 1;}
 
+    printf("1");
+
     return 0;
 }
 
