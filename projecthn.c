@@ -8,5 +8,8 @@ int main()
 {
     printf("test");
     printf("1");
+
+    printf("이하늘 사장님 때리고 싶어요 ㅎㅎㅎ");
+    
     return 0;
 }
