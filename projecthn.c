@@ -44,6 +44,8 @@ int scan_s()
 
     print("하늘 사장님 개때리고 싶어요");
 
+    print("싫어");
+
     return 0;
 }
 
