@@ -15,10 +15,19 @@ char option[10] = {0};
 int cnt = 1;
 
 int main()
+<<<<<<< HEAD
 {   
     scan_s();
     HDMI();
     main();
+=======
+{
+    printf("test");
+    printf("1");
+
+    printf("이하늘 사장님 때리고 싶어요 ㅎㅎㅎ");
+    
+>>>>>>> f0843bb8fb624af11f972c2261e4cf6a35cf450d
     return 0;
 }
 
